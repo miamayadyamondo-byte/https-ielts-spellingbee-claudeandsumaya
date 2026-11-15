@@ -1,0 +1,30 @@
+{
+ "name": "IELTS Spelling Bee",
+ "short_name": "Spelling Bee",
+ "description": "A free spelling bee for IELTS learners.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#e4daf8",
+ "theme_color": "#7c5cd6",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
